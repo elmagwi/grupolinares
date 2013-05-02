@@ -1,3 +1,6 @@
+modificado en curso ingles
+
+
 <%@page contentType="text/html"%>
 <%@page pageEncoding="ISO-8859-1"%>
 <%@include file="conexion.jsp" %>
